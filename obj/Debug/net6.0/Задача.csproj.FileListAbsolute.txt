@@ -1,0 +1,15 @@
+K:\УЧЕБА\финальный тест\Задача\bin\Debug\net6.0\Задача.exe
+K:\УЧЕБА\финальный тест\Задача\bin\Debug\net6.0\Задача.deps.json
+K:\УЧЕБА\финальный тест\Задача\bin\Debug\net6.0\Задача.runtimeconfig.json
+K:\УЧЕБА\финальный тест\Задача\bin\Debug\net6.0\Задача.dll
+K:\УЧЕБА\финальный тест\Задача\bin\Debug\net6.0\Задача.pdb
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.csproj.AssemblyReference.cache
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.GeneratedMSBuildEditorConfig.editorconfig
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.AssemblyInfoInputs.cache
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.AssemblyInfo.cs
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.csproj.CoreCompileInputs.cache
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.dll
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\refint\Задача.dll
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.pdb
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\Задача.genruntimeconfig.cache
+K:\УЧЕБА\финальный тест\Задача\obj\Debug\net6.0\ref\Задача.dll
